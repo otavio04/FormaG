@@ -1,0 +1,118 @@
+# **TERMOS DE USO — Aplicativo FormaG**
+
+**Última atualização:** *02/12/2025*
+
+Bem-vindo ao **FormaG**, um aplicativo móvel destinado a auxiliar na obtenção dos parâmetros de Forma 2D e Angularidade de Agregados Graúdos, com foco em atividades didáticas, de pesquisa e práticas profissionais relacionadas à construção civil e pesada.
+
+Ao utilizar o FormaG, você concorda com os presentes Termos de Uso. Caso não concorde, pedimos que não utilize o aplicativo.
+
+---
+
+## **1. Sobre o FormaG**
+
+O FormaG é um aplicativo desenvolvido como fruto de Trabalho de Conclusão de Curso (TCC) do curso de Bacharelado em Engenharia Civil do Instituto Federal do Ceará (IFCE) e posteriormente aperfeiçoado durante pós-graduação na Universidade Federal do Ceará (UFC).
+
+O app destina-se ao uso por estudantes, professores, pesquisadores, construtoras, órgãos de fiscalização, profissionais da engenharia e demais interessados na análise da forma de agregados graúdos.
+
+---
+
+## **2. Licença de Uso**
+
+O FormaG é disponibilizado gratuitamente.
+Concedemos a você uma licença limitada, não exclusiva e não transferível para utilizar o aplicativo exclusivamente para fins educacionais, profissionais ou de pesquisa.
+
+É proibido:
+
+* copiar, modificar ou distribuir o aplicativo ou partes dele;
+* realizar engenharia reversa, decompilação ou tentativa de acessar o código-fonte;
+* utilizar o app para fins ilícitos ou que violem legislações aplicáveis.
+
+---
+
+## **3. Coleta e Uso de Dados**
+
+Atualmente, **o FormaG não coleta, armazena, processa ou compartilha quaisquer dados pessoais ou técnicos dos usuários**.
+
+### **3.1 Possíveis atualizações futuras**
+
+O aplicativo poderá, em versões futuras, coletar dados fornecidos voluntariamente pelos usuários, como resultados de medições de agregados, localização aproximada ou informações adicionais necessárias para compor um banco de dados global de índices de forma.
+Caso isso ocorra, **novos Termos de Uso e Política de Privacidade serão disponibilizados e solicitarão seu consentimento prévio**.
+
+---
+
+## **4. Login e Contas**
+
+O FormaG não exige cadastro nem login para ser utilizado.
+
+---
+
+## **5. Compartilhamento de Dados com Terceiros**
+
+O app **não compartilha dados com terceiros**, pois não realiza qualquer coleta no momento.
+
+---
+
+## **6. Anúncios e Serviços de Terceiros**
+
+O FormaG **não exibe anúncios** na versão atual.
+Em futuras atualizações, caso anúncios venham a ser incorporados, o usuário será notificado e novos termos poderão ser apresentados.
+
+---
+
+## **7. Custos e Compras**
+
+O FormaG é **inteiramente gratuito** e não oferece compras dentro do aplicativo.
+
+---
+
+## **8. Funcionalidades**
+
+O aplicativo oferece ferramentas para auxiliar na obtenção de parâmetros morfológicos de agregados.
+Um **manual de operação** é disponibilizado dentro do próprio app e deve ser consultado pelo usuário para compreender corretamente seu uso.
+
+O desenvolvedor não se responsabiliza por interpretações equivocadas ou uso inadequado dos resultados gerados pelo app.
+
+---
+
+## **9. Responsabilidades do Usuário**
+
+Ao utilizar o FormaG, você concorda em:
+
+* utilizar o app apenas para fins legais;
+* não tentar explorar falhas, vulnerabilidades ou manipular resultados;
+* compreender que as análises realizadas dependem da correta utilização pelo usuário.
+
+---
+
+## **10. Limitação de Responsabilidade**
+
+O FormaG é disponibilizado “no estado em que se encontra”, sem garantias explícitas ou implícitas.
+O desenvolvedor não se responsabiliza por prejuízos decorrentes de:
+
+* uso inadequado do aplicativo;
+* interpretações incorretas de resultados;
+* decisões técnicas, acadêmicas ou profissionais tomadas com base no app.
+
+O usuário é responsável por validar os resultados conforme normas técnicas aplicáveis.
+
+---
+
+## **11. Atualizações e Modificações**
+
+O desenvolvedor poderá modificar, atualizar, suspender ou descontinuar funcionalidades do app sem aviso prévio.
+Quando mudanças significativas ocorrerem (como coleta de dados, anúncios ou funcionalidades pagas), novos termos serão apresentados.
+
+---
+
+## **12. Contato**
+
+Para dúvidas, sugestões ou solicitações, entre em contato:
+**[otavio04g.dev@gmail.com](mailto:otavio04g.dev@gmail.com)**
+
+---
+
+## **13. Disposições Finais**
+
+Ao continuar utilizando o FormaG, você declara ter lido, compreendido e concordado com estes Termos de Uso.
+
+---
