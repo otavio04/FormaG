@@ -1,118 +1,109 @@
-# **TERMOS DE USO — Aplicativo FormaG**
+# **TERMS OF USE — FormaG Application**
 
-**Última atualização:** *02/12/2025*
+**Last updated:** *June 15, 2026*
 
-Bem-vindo ao **FormaG**, um aplicativo móvel destinado a auxiliar na obtenção dos parâmetros de Forma 2D e Angularidade de Agregados Graúdos, com foco em atividades didáticas, de pesquisa e práticas profissionais relacionadas à construção civil e pesada.
+Welcome to **FormaG**, a mobile application designed to assist in obtaining 2D Shape and Angularity parameters of Coarse Aggregates, focusing on educational, research, and professional practices related to civil and heavy construction.
 
-Ao utilizar o FormaG, você concorda com os presentes Termos de Uso. Caso não concorde, pedimos que não utilize o aplicativo.
-
----
-
-## **1. Sobre o FormaG**
-
-O FormaG é um aplicativo desenvolvido como fruto de Trabalho de Conclusão de Curso (TCC) do curso de Bacharelado em Engenharia Civil do Instituto Federal do Ceará (IFCE) e posteriormente aperfeiçoado durante pós-graduação na Universidade Federal do Ceará (UFC).
-
-O app destina-se ao uso por estudantes, professores, pesquisadores, construtoras, órgãos de fiscalização, profissionais da engenharia e demais interessados na análise da forma de agregados graúdos.
+By using FormaG, you agree to these Terms of Use and our Privacy Policy. **Consent to these terms is mandatory to access and use the application's features.** If you do not agree, please uninstall and do not use the application.
 
 ---
 
-## **2. Licença de Uso**
+## **1. About FormaG**
 
-O FormaG é disponibilizado gratuitamente.
-Concedemos a você uma licença limitada, não exclusiva e não transferível para utilizar o aplicativo exclusivamente para fins educacionais, profissionais ou de pesquisa.
+FormaG was developed as a result of a Bachelor's Degree Thesis in Civil Engineering at the Federal Institute of Ceará (IFCE) and subsequently improved during postgraduate studies at the Federal University of Ceará (UFC).
 
-É proibido:
-
-* copiar, modificar ou distribuir o aplicativo ou partes dele;
-* realizar engenharia reversa, decompilação ou tentativa de acessar o código-fonte;
-* utilizar o app para fins ilícitos ou que violem legislações aplicáveis.
+The app is intended for use by students, professors, researchers, construction companies, inspection bodies, engineering professionals, and others interested in the morphology analysis of coarse aggregates.
 
 ---
 
-## **3. Coleta e Uso de Dados**
+## **2. License for Use**
 
-Atualmente, **o FormaG não coleta, armazena, processa ou compartilha quaisquer dados pessoais ou técnicos dos usuários**.
+FormaG is provided free of charge.
+We grant you a limited, non-exclusive, non-transferable license to use the application solely for educational, professional, or research purposes.
 
-### **3.1 Possíveis atualizações futuras**
-
-O aplicativo poderá, em versões futuras, coletar dados fornecidos voluntariamente pelos usuários, como resultados de medições de agregados, localização aproximada ou informações adicionais necessárias para compor um banco de dados global de índices de forma.
-Caso isso ocorra, **novos Termos de Uso e Política de Privacidade serão disponibilizados e solicitarão seu consentimento prévio**.
-
----
-
-## **4. Login e Contas**
-
-O FormaG não exige cadastro nem login para ser utilizado.
+It is strictly prohibited to:
+* Copy, modify, or distribute the application or any parts of it;
+* Perform reverse engineering, decompilation, or any attempt to access the source code;
+* Use the app for unlawful purposes or in violation of applicable laws.
 
 ---
 
-## **5. Compartilhamento de Dados com Terceiros**
+## **3. Technical Data Collection, Synchronization, and Use**
 
-O app **não compartilha dados com terceiros**, pois não realiza qualquer coleta no momento.
+To enable advanced data analysis and continuous improvement of the tool, FormaG collects and processes specific technical data from the performed tests.
 
----
+### **3.1 Scope of Collection**
+The collected data consists **strictly of the exact same numerical information and images generated in the final report that is saved locally on the user's device**, accompanied by the precise timestamp (date and time) of the test creation. The application **does not collect** any user identity data, such as name, email, accounts, or precise geographic location.
 
-## **6. Anúncios e Serviços de Terceiros**
+### **3.2 Purpose and Cloud Storage**
+The technical data and images are securely transmitted to our cloud repository (Firebase Storage) and will be used **exclusively for statistical studies, scientific research, and technical tool improvements** by the developers. None of the collected information is commercialized or shared with advertising networks.
 
-O FormaG **não exibe anúncios** na versão atual.
-Em futuras atualizações, caso anúncios venham a ser incorporados, o usuário será notificado e novos termos poderão ser apresentados.
-
----
-
-## **7. Custos e Compras**
-
-O FormaG é **inteiramente gratuito** e não oferece compras dentro do aplicativo.
+### **3.3 Background Synchronization (Offline Support)**
+The application features built-in offline synchronization managed by the Android system. If a user finalizes a test without a network connection, a temporary encrypted copy is kept in the app's private cache. As soon as a stable connection is detected, the upload is completed in the background, and the cache copy is immediately deleted, preserving the phone's storage. The public PDF report stored in the user's "Documents" folder is **never** deleted or altered by the application.
 
 ---
 
-## **8. Funcionalidades**
+## **4. Login and Accounts**
 
-O aplicativo oferece ferramentas para auxiliar na obtenção de parâmetros morfológicos de agregados.
-Um **manual de operação** é disponibilizado dentro do próprio app e deve ser consultado pelo usuário para compreender corretamente seu uso.
-
-O desenvolvedor não se responsabiliza por interpretações equivocadas ou uso inadequado dos resultados gerados pelo app.
+FormaG does not require user registration or login credentials. Uploaded technical reports are identified only by dynamic, non-personally identifiable timestamps and system codes.
 
 ---
 
-## **9. Responsabilidades do Usuário**
+## **5. Advertisements and Third-Party Services**
 
-Ao utilizar o FormaG, você concorda em:
-
-* utilizar o app apenas para fins legais;
-* não tentar explorar falhas, vulnerabilidades ou manipular resultados;
-* compreender que as análises realizadas dependem da correta utilização pelo usuário.
+FormaG **does not display ads** and relies solely on the official Google infrastructure (Firebase Storage and Google Play Services) to securely handle the storage of technical reports.
 
 ---
 
-## **10. Limitação de Responsabilidade**
+## **6. Costs and Purchases**
 
-O FormaG é disponibilizado “no estado em que se encontra”, sem garantias explícitas ou implícitas.
-O desenvolvedor não se responsabiliza por prejuízos decorrentes de:
-
-* uso inadequado do aplicativo;
-* interpretações incorretas de resultados;
-* decisões técnicas, acadêmicas ou profissionais tomadas com base no app.
-
-O usuário é responsável por validar os resultados conforme normas técnicas aplicáveis.
+FormaG is **entirely free** and does not offer any in-app purchases or subscriptions.
 
 ---
 
-## **11. Atualizações e Modificações**
+## **7. Tool Functionality and Technical Disclaimer**
 
-O desenvolvedor poderá modificar, atualizar, suspender ou descontinuar funcionalidades do app sem aviso prévio.
-Quando mudanças significativas ocorrerem (como coleta de dados, anúncios ou funcionalidades pagas), novos termos serão apresentados.
+The application provides automated computer-vision tools to assist in obtaining morphological parameters of aggregates. An **operating manual** is provided within the app and must be consulted by the user to understand its correct operation.
+
+The developer is not responsible for misinterpretations, incorrect camera calibrations, or inappropriate use of the results generated by the app.
 
 ---
 
-## **12. Contato**
+## **8. User Responsibilities**
 
-Para dúvidas, sugestões ou solicitações, entre em contato:
+By using FormaG, you agree to:
+* Use the app only for lawful purposes;
+* Not attempt to exploit flaws, vulnerabilities, or manipulate results;
+* Understand that the accuracy of the analysis directly depends on correct image capture and data entry by the user.
+
+---
+
+## **9. Limitation of Liability**
+
+FormaG is provided on an “as-is” and “as-available” basis, without explicit or implicit warranties of infallibility. The developer is not liable for damages resulting from:
+* Inappropriate use or usage outside the specifications defined in the application's manual;
+* Incorrect interpretations of results by third parties;
+* Technical, academic, or professional engineering decisions made based exclusively on the app's reports.
+
+The user and the responsible technical professional are entirely responsible for validating and cross-checking the results obtained in compliance with current local and national technical standards (e.g., ABNT, ASTM).
+
+---
+
+## **10. Updates and Modifications to the Terms**
+
+The developer may modify, update, suspend, or discontinue app features without prior notice. When significant changes in data processing occur, updated terms and policies will be presented at app launch to collect fresh user consent.
+
+---
+
+## **11. Contact**
+
+For questions, suggestions, or requests regarding these Terms, please contact the developer via email at:
 **[otavio04g.dev@gmail.com](mailto:otavio04g.dev@gmail.com)**
 
 ---
 
-## **13. Disposições Finais**
+## **12. Final Provisions**
 
-Ao continuar utilizando o FormaG, você declara ter lido, compreendido e concordado com estes Termos de Uso.
+By clicking "Agree and Continue" during the application initialization, you declare that you have read, understood, and fully accepted these Terms of Use and our Privacy Policy.
 
 ---
